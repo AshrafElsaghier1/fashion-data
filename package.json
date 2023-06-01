@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch -p 3333 server.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
